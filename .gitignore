@@ -2,6 +2,6 @@
 /out/*
 !/src/Result.java
 !/src/Servlet.java
-/web/
 !/web/index.jsp
+/web/
 *.iml
