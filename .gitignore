@@ -1,8 +1,7 @@
 /.idea/*
 /out/*
-/src/
 !/src/Result.java
 !/src/Servlet.java
 /web/
 !/web/index.jsp
-!*.iml
+*.iml
